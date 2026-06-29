@@ -4,7 +4,7 @@ teryt (pronounced "ter-it") is a minimalist, distraction-free terminal YouTube c
 
 ## 💡 the idea behind this project
 
-as a Linux user, i practically live in the terminal. my entire workflow depends on it. as i was looking through all the current YouTube clients for the terminal, i realized something. all of them spawned a separate window. i started wondering, "what if I could render a video directly *inside* the terminal?" And that was the birth of this quirky, fun project that I've named teryt.
+as a Linux user, i practically live in the terminal. my entire workflow depends on it. as i was looking through all the current YouTube clients for the terminal, i realized something. all of them spawned a separate window. i started wondering, "what if I could render a video directly *inside* the terminal?" and that was the birth of this quirky, fun project that I've named teryt.
 
 ## 📋 prerequisites
 
