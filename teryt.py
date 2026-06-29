@@ -7,6 +7,11 @@ if not shutil.which("yt-dlp"):
     print("Please install it using your system package manager (e.g., 'sudo pacman -S yt-dlp').")
     sys.exit(1)
 
+if not shutil.which("mpv"):
+    print("Error: 'mpv' is not installed on this system.")
+    print("Please install it using your system package manager (e.g., 'sudo pacman -S mpv').")
+    sys.exit(1)
+
 def makelist(search_query):
     result = subprocess.run(
         [
