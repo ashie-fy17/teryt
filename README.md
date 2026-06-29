@@ -21,6 +21,24 @@ on Arch Linux / EndeavourOS, install them via pacman:
 sudo pacman -S python yt-dlp mpv kitty
 ```
 
+on Ubuntu / Debian / Linux Mint, install them via apt:
+
+```bash
+sudo apt update && sudo apt install python3 python3-pip yt-dlp mpv kitty
+```
+
+on Fedora, install them via dnf:
+
+```bash
+sudo dnf install python3 yt-dlp mpv kitty
+```
+
+on OpenSUSE, install them via zypper:
+
+```bash
+sudo zypper install python3 yt-dlp mpv kitty
+```
+
 ## ⚙️ installation & setup
 
 1. clone or download this repository.
