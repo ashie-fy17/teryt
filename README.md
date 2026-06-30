@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/f76be457-b991-4b0d-bfc7-ea017282e775
+
+
 # >_ teryt
 
 teryt (pronounced "ter-it") is a minimalist, distraction-free terminal YouTube client built specifically for advanced Linux terminal setups. it allows you to search for videos and stream them directly inside your text console grid using True Color Text (TCT) matrix rendering.
@@ -5,6 +8,9 @@ teryt (pronounced "ter-it") is a minimalist, distraction-free terminal YouTube c
 ## 💡 the idea behind this project
 
 as a Linux user, i practically live in the terminal. my entire workflow depends on it. as i was looking through all the current YouTube clients for the terminal, i realized something. all of them spawned a separate window. i started wondering, "what if I could render a video directly *inside* the terminal?" and that was the birth of this quirky, fun project that I've named teryt.
+
+# demo :3
+https://github.com/user-attachments/assets/f76be457-b991-4b0d-bfc7-ea017282e775
 
 ## 📋 prerequisites
 
